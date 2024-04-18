@@ -1,0 +1,57 @@
+Launch MyAudioUI and ensure the entire folder is open to enable application functionality.
+
+Commands:
+
+- store: Displays the available store items.
+
+- download: Allows downloading content from the store.
+
+- songs: Lists all available songs.
+
+- books: Lists all available books.
+
+- podcasts: Lists all available podcasts.
+
+- artists: Lists all available artists.
+
+- playlists: Lists all available playlists.
+
+- playsong: Plays a specific song from the downloaded collection.
+
+- booktoc: Starts playing a book.
+
+- playbook: Plays a book by chapter.
+
+- podtoc: Initiates playback of a podcast.
+
+- playpod: Plays a podcast by season.
+
+- playallpl: Plays all items in a playlist.
+
+- playpl: Plays items in a playlist based on their order.
+
+- delsong: Deletes a downloaded song.
+
+- makepl: Creates a new playlist (user input required for title).
+
+- printpl: Prints the content of a playlist based on its title.
+
+- addtopl: Adds content to a playlist.
+
+- delfrompl: Deletes content from a playlist.
+
+- search: Searches for content by title.
+
+- searcha: Searches for content by artist.
+
+- searchg: Searches for content by genre.
+
+- downloada: Downloads all content by a specific artist.
+
+- downloadg: Downloads all content of a particular genre.
+
+- sortbyyear: Sorts content by year.
+
+- sortbyname: Sorts content by name.
+
+- sortsbylength: Sorts content by length.
